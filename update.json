@@ -1,6 +1,6 @@
 {
-  "versionCode": 251005,
-  "versionName": "1.3",
+  "versionCode": 251006,
+  "versionName": "1.4",
   "url": "https://github.com/quantv25/quantvcoban/releases/latest/download/QuanTVcoban.apk",
-  "changelog": "• Sửa mở các App ngoài Home 1 nhấn, bấm số kênh to hơn, Lịch âm khi ấn ok"
+  "changelog": "• Bật QuanTV Quick Launch để bấm số truy cập kênh mọi nơi. Bấm số kênh hiển thị lơn hơn."
 }
